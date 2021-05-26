@@ -11,7 +11,7 @@
 
     <section class="showcase">
         <header>
-            <h2 class="logo">devgod</h2>
+            <h2 class="logo">devgodwfs</h2>
             <div id="iconMenu" class="toggle"></div>
         </header>
         
